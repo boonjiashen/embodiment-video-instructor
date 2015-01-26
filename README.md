@@ -10,6 +10,11 @@ Authors
 
 Conditions
 --------------------
+Links to the videos used in our experiments are given below
+* [Instructor embodied by a virtual agent](http://youtu.be/MlTh3zx2WRU)
+* [Instructor embodied by himself/herself](http://youtu.be/u6SBEUv1TdU)
+* [Instructor with no embodiment](http://youtu.be/QQ0XuEJ7WjA)
+
 Below we show screenshots of the virtual agent embodiment, human embodiment and no embodiment respectively.
 
 ![Instructor embodied by a virtual agent](report/Figures/Agent.png)
